@@ -1,20 +1,20 @@
-body{ 
+body{
     margin: 0;
-    padding: 0;                                             
-    background-color: white;	    
- }
+    padding: 0;
+    background-color: white
+}
 
- #left-column{
+#left-column{
     width: 60%;
     float: left;
     background-color: blueviolet;
 }
 
- #right-column img{
+#right-column img{
     width: 230px;
     margin-left: 140px;
     margin-top: 100px;
- }
+}
 
 img#logo{
     position: fixed;
